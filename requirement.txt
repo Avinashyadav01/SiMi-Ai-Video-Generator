@@ -1,0 +1,9 @@
+google-genai==2.29.0
+edge-tts==7.2.8
+pydantic==2.13.4
+python-dotenv==1.2.2
+fastapi==0.136.1
+uvicorn==0.47.0
+tzdata==2026.2
+cryptography==48.0.0
+requests==2.34.0

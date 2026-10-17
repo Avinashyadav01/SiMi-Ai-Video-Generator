@@ -1,0 +1,16 @@
+.env
+__pycache__/
+.venv/
+.vercel/
+node_modules/
+*.py[cod]
+output/*
+!output/.gitkeep
+logs/
+data/database/*.sqlite3
+data/database/*.sqlite3-shm
+data/database/*.sqlite3-wal
+data/database/token.key
+data/assets/**/.selection_state.json
+*.tmp
+*.part
